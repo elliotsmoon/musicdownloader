@@ -1,6 +1,8 @@
 # Music Downloader
 created by elliotsmoon.
 
+### This is still heavily in progress.
+
 ### Psst.. if you're looking to download the files:
 Go to the releases tab to find the correct file format for your system.
 
